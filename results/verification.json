@@ -1,0 +1,34 @@
+{
+  "basic": {
+    "test_alignment": true,
+    "recomputed_bleu_chrf": true,
+    "timing_sum": true,
+    "test_records": 200,
+    "temperature_records": 60,
+    "ethical_records": 12
+  },
+  "mt5": {
+    "test_alignment": true,
+    "recomputed_bleu_chrf": true,
+    "timing_sum": true,
+    "test_records": 200,
+    "temperature_records": 60,
+    "ethical_records": 12
+  },
+  "llama": {
+    "test_alignment": true,
+    "recomputed_bleu_chrf": true,
+    "timing_sum": true,
+    "test_records": 200,
+    "temperature_records": 60,
+    "ethical_records": 12
+  },
+  "gemma": {
+    "test_alignment": true,
+    "recomputed_bleu_chrf": true,
+    "timing_sum": true,
+    "test_records": 200,
+    "temperature_records": 60,
+    "ethical_records": 12
+  }
+}

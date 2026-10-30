@@ -1,0 +1,33 @@
+<workspace>\.venv-ia3\Lib\site-packages\torch\nn\modules\transformer.py:385: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.norm_first was True
+  warnings.warn(
+<workspace>\.venv-ia3\Lib\site-packages\torch\autograd\graph.py:823: UserWarning: Memory Efficient attention defaults to a non-deterministic algorithm. To explicitly enable determinism call torch.use_deterministic_algorithms(True, warn_only=False). (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\aten\src\ATen\native\transformers\cuda\attention_backward.cu:685.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Basic epoch 1/20 train=5.5045 val=4.3353 seconds=3.17
+Basic epoch 2/20 train=4.6526 val=3.7822 seconds=2.71
+Basic epoch 3/20 train=4.2282 val=3.4096 seconds=3.01
+Basic epoch 4/20 train=3.9151 val=3.1593 seconds=3.02
+Basic epoch 5/20 train=3.6677 val=2.9356 seconds=3.15
+Basic epoch 6/20 train=3.4658 val=2.7576 seconds=3.69
+Basic epoch 7/20 train=3.2913 val=2.6454 seconds=4.41
+Basic epoch 8/20 train=3.1499 val=2.5573 seconds=3.70
+Basic epoch 9/20 train=3.0271 val=2.4575 seconds=3.38
+Basic epoch 10/20 train=2.9132 val=2.3954 seconds=3.34
+Basic epoch 11/20 train=2.8175 val=2.3674 seconds=3.52
+Basic epoch 12/20 train=2.7352 val=2.3040 seconds=3.31
+Basic epoch 13/20 train=2.6512 val=2.2560 seconds=3.37
+Basic epoch 14/20 train=2.5862 val=2.2557 seconds=3.97
+Basic epoch 15/20 train=2.5265 val=2.2308 seconds=3.60
+Basic epoch 16/20 train=2.4669 val=2.2066 seconds=3.15
+Basic epoch 17/20 train=2.4104 val=2.2008 seconds=3.18
+Basic epoch 18/20 train=2.3635 val=2.1931 seconds=3.09
+Basic epoch 19/20 train=2.3129 val=2.2121 seconds=3.10
+Basic epoch 20/20 train=2.2703 val=2.2065 seconds=3.06
+basic: translated 25/200
+basic: translated 50/200
+basic: translated 75/200
+basic: translated 100/200
+basic: translated 125/200
+basic: translated 150/200
+basic: translated 175/200
+basic: translated 200/200
+{'bleu': 20.638414981471318, 'chrf': 40.13285114098659, 'bleu_signature': 'nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.5.1', 'chrf_signature': 'nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.5.1', 'bleu_bp': 0.9379993489152221, 'bleu_ratio': 0.9398443029016278, 'inference_seconds': 11.233287199982442, 'inference_wall_seconds': 11.235956899996381, 'mean_latency_seconds': 0.05616643599991221, 'median_latency_seconds': 0.053542050009127706, 'test_sentences': 200, 'length_cap_hits': 0}

@@ -1,0 +1,40 @@
+{
+  "dataset": "ManyThings Tatoeba French-English sentence pairs",
+  "direction": "French to English",
+  "source_page": "https://www.manythings.org/anki/",
+  "source_url": "https://www.manythings.org/anki/fra-eng.zip",
+  "archive_sha256": "9e35994767f7307dc1fa9d5efcc36681f3756a1bdaaa02c1381b3eb11461261e",
+  "raw_rows": 240521,
+  "eligible_rows": 222367,
+  "unique_source_and_target_rows": 147965,
+  "selection_seed": 42,
+  "source_words": [
+    3,
+    12
+  ],
+  "target_words": [
+    3,
+    12
+  ],
+  "maximum_characters": 120,
+  "splits": {
+    "train": {
+      "pairs": 6000,
+      "mean_source_words": 6.471333333333333,
+      "mean_target_words": 5.97,
+      "sha256": "7a32cd57727f31af2fe5ede0935c8e978df257f6139144eed7239928319d08a6"
+    },
+    "validation": {
+      "pairs": 200,
+      "mean_source_words": 6.41,
+      "mean_target_words": 5.89,
+      "sha256": "f58654a351d05b73e011697dda4ba424858b7d9a9c2f2f921e219dc988e130e3"
+    },
+    "test": {
+      "pairs": 200,
+      "mean_source_words": 6.375,
+      "mean_target_words": 5.985,
+      "sha256": "26d6a6fa670df4e1bffc389681a1a98c03208ed6cfd4b27e8b59842363b689b7"
+    }
+  }
+}

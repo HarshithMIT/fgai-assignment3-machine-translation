@@ -1,0 +1,15 @@
+{
+  "method": "three-shot prompting; no parameter updates",
+  "training_seconds": null,
+  "fit_wall_seconds": null,
+  "parameters": 268098176,
+  "trainable_parameters": 0,
+  "precision": "bfloat16",
+  "device": "cuda",
+  "demonstration_ids": [
+    "tatoeba-row-150392",
+    "tatoeba-row-89296",
+    "tatoeba-row-93099"
+  ],
+  "prompt_template": "Translate the French sentence into English. Return only the English translation. Preserve names, numbers, negation, and meaning. Do not explain or add information.\n\nFrench: Je n'ai rien dit à propos de l'affaire.\nEnglish: I said nothing about the matter.\n\nFrench: Une cuillère est manquante.\nEnglish: There is a spoon missing.\n\nFrench: Ne me parle pas comme ça.\nEnglish: Don't talk to me that way.\n\nFrench: {SOURCE_FRENCH}\nEnglish:"
+}

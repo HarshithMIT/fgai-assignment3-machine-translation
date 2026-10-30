@@ -1,0 +1,602 @@
+[
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "I want to take a decision.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "I'm averti a minute.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "I'm a very good.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "I'm ready to do everything that I want.",
+    "output_tokens": 13,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "I was easy.",
+    "output_tokens": 5,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "I'm a realistic object.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "I'm a reason?",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "I was driving in the car.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "I'm a Canadian.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 0.3,
+    "sampling_seed": 101,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "I'm tired, when we arrive.",
+    "output_tokens": 12,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "I want to take a decision.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "I'm asked one time.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "I'm a good teacher.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "I'm ready everything that's in my speech.",
+    "output_tokens": 15,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "It was easy.",
+    "output_tokens": 5,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "I'm a project realistic.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "I'm a reason?",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "Tom is driving in the car.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "I'm a French.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 0.3,
+    "sampling_seed": 202,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "I'm tired.",
+    "output_tokens": 7,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "I'm a decision that can take.",
+    "output_tokens": 11,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "I'm averti to the minute.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "He'll leave me full.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "I'm a to me.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "I was easy.",
+    "output_tokens": 5,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "I explain a object.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "I'm a reason?",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "He walked in the vehicle.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "I'm a Canadian.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 0.7,
+    "sampling_seed": 101,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "I'm tired, but not ready.",
+    "output_tokens": 12,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "Do you want to take selective decisions.",
+    "output_tokens": 11,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "It's aadvised a few days.",
+    "output_tokens": 14,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "Do you know a nice job.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "Do you know what you can do in my very for me.",
+    "output_tokens": 15,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "It was easy.",
+    "output_tokens": 5,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "Do you make a object.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "Do you know you what I did?",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "Do Tom is driving on the vehicle.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "Do you know you?",
+    "output_tokens": 6,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 0.7,
+    "sampling_seed": 202,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "Do you wait a taxi.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "She's a decision that can move.",
+    "output_tokens": 11,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "She told a time.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "She'll leave to work.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "She does all the look at my speech.",
+    "output_tokens": 12,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "That was easy.",
+    "output_tokens": 5,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "She explain a look full.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "She didn't look at Tom?",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "She walked in the wheel.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "She's a Catalan.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 1.0,
+    "sampling_seed": 101,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "I'm tired, but embark.",
+    "output_tokens": 11,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-204001",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "Do you want to take one step.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "Do you spoke more one time.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "Do you know a nice.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "Do you make anything I did't have.",
+    "output_tokens": 12,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "Do you know anything.",
+    "output_tokens": 7,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "Do you make a object value.",
+    "output_tokens": 9,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "Do you know you what I did Adam had lawyer?",
+    "output_tokens": 13,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "Do Tom was driving on la vehicle.",
+    "output_tokens": 10,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "Do you know you?",
+    "output_tokens": 6,
+    "hit_length_cap": false
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "temperature": 1.0,
+    "sampling_seed": 202,
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "Do you wait a taxi.",
+    "output_tokens": 8,
+    "hit_length_cap": false
+  }
+]

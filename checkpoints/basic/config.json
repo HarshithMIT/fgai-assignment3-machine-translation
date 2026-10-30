@@ -1,0 +1,18 @@
+{
+  "vocab_size": 2000,
+  "d_model": 128,
+  "heads": 4,
+  "encoder_layers": 2,
+  "decoder_layers": 2,
+  "ff_dim": 512,
+  "dropout": 0.1,
+  "batch_size": 64,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "label_smoothing": 0.1,
+  "seed": 42,
+  "source_max_tokens": 64,
+  "target_max_tokens": 64,
+  "max_new_tokens": 48,
+  "tokenizer": "SentencePiece BPE trained only on the training split"
+}

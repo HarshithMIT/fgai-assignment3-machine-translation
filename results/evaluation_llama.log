@@ -1,0 +1,11 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+llama: translated 25/200
+llama: translated 50/200
+llama: translated 75/200
+llama: translated 100/200
+llama: translated 125/200
+llama: translated 150/200
+llama: translated 175/200
+llama: translated 200/200
+{'bleu': 8.948133466936987, 'chrf': 31.986569977572817, 'bleu_signature': 'nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.5.1', 'chrf_signature': 'nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.5.1', 'bleu_bp': 1.0, 'bleu_ratio': 2.6107572540693558, 'inference_seconds': 169.4681450999633, 'inference_wall_seconds': 169.4708185000054, 'mean_latency_seconds': 0.8473407254998164, 'median_latency_seconds': 0.6188023499853443, 'test_sentences': 200, 'length_cap_hits': 16}

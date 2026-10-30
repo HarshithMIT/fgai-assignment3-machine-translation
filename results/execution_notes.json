@@ -1,0 +1,10 @@
+{
+  "gemma_timing_rerun": {
+    "reason": "The initial inference run crossed a long session interruption. Two single-sentence timers recorded 306.65 and 35738.84 seconds, while median latency was approximately 0.62 seconds. The complete benchmark and auxiliary generation were rerun with identical weights, settings and sources to obtain uninterrupted timings.",
+    "initial_bleu": 11.195125727010645,
+    "initial_chrf": 23.81961001976849,
+    "timing_selection": "Use the complete rerun, not a filtered or selectively trimmed set of sentence timings.",
+    "all_200_translations_and_token_counts_match": true,
+    "rerun_total_seconds": 120.95174120023148
+  }
+}

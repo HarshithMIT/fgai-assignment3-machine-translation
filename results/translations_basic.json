@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "tatoeba-row-204001",
+    "source": "Ce sont des décisions que je désire prendre seul.",
+    "reference": "These are decisions I want to make alone.",
+    "translation": "They're decised to take out of here.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.07036360001075082
+  },
+  {
+    "id": "tatoeba-row-28032",
+    "source": "Je t'ai averti une fois.",
+    "reference": "I warned you once.",
+    "translation": "I'll warned a time.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04905479997978546
+  },
+  {
+    "id": "tatoeba-row-134278",
+    "source": "Je n'ai pas honte d'être pauvre.",
+    "reference": "I'm not ashamed that I'm poor.",
+    "translation": "I don't have a gunshinded.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.07023230000049807
+  },
+  {
+    "id": "tatoeba-row-142780",
+    "source": "Je ferai tout ce qui est en mon pouvoir.",
+    "reference": "I'll do everything in my power.",
+    "translation": "I'll do what all for my mind.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05801249999785796
+  },
+  {
+    "id": "tatoeba-row-40771",
+    "source": "Tout était facile.",
+    "reference": "Everything was easy.",
+    "translation": "It was easy.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03188150000642054
+  },
+  {
+    "id": "tatoeba-row-124158",
+    "source": "Je me fixe des objectifs réalistes.",
+    "reference": "I set myself realistic goals.",
+    "translation": "I have able to get fialalal-my.",
+    "output_tokens": 16,
+    "hit_length_cap": false,
+    "seconds": 0.08183579999604262
+  },
+  {
+    "id": "tatoeba-row-146808",
+    "source": "Pourquoi, d'après vous, Tom avait-il raison ?",
+    "reference": "Why do you think Tom was right?",
+    "translation": "Why are you going to Tom?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.046938100014813244
+  },
+  {
+    "id": "tatoeba-row-54025",
+    "source": "Tom est monté dans la voiture.",
+    "reference": "Tom got into the car.",
+    "translation": "Tom is in the car.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.037458599981619045
+  },
+  {
+    "id": "tatoeba-row-169601",
+    "source": "« Es-tu Suédoise ? » « Non, je suis Suisse. »",
+    "reference": "\"Are you Swedish?\" \"No, I'm Swiss.\"",
+    "translation": "\"Ded you get med, I'my, please.\"",
+    "output_tokens": 17,
+    "hit_length_cap": false,
+    "seconds": 0.08726910001132637
+  },
+  {
+    "id": "tatoeba-row-196365",
+    "source": "Nous sommes pressés, alors prenons un taxi.",
+    "reference": "We're in a hurry, so let's take a taxi.",
+    "translation": "We're the truth, take your busination.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.06789010000647977
+  },
+  {
+    "id": "tatoeba-row-58471",
+    "source": "Je le lui ai expliqué.",
+    "reference": "I explained it to him.",
+    "translation": "I explained him.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03090489999158308
+  },
+  {
+    "id": "tatoeba-row-98001",
+    "source": "À vos marques, prêts... partez !",
+    "reference": "On your mark, get set, go!",
+    "translation": "To your getting ready.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.03641960001550615
+  },
+  {
+    "id": "tatoeba-row-109671",
+    "source": "Tom est sorti de la pièce.",
+    "reference": "Tom walked out of the room.",
+    "translation": "Tom is out of the room.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.040722600009758025
+  },
+  {
+    "id": "tatoeba-row-114842",
+    "source": "Je me suis heurté à quelques ennuis.",
+    "reference": "I ran into a little trouble.",
+    "translation": "I'm a feward to a feward.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.07013249999727122
+  },
+  {
+    "id": "tatoeba-row-47220",
+    "source": "Tu as menti au F.B.I.",
+    "reference": "You lied to the FBI.",
+    "translation": "You lieed the lighten.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.0524784000008367
+  },
+  {
+    "id": "tatoeba-row-216299",
+    "source": "Penses-tu que ma façon d'enseigner est mauvaise ?",
+    "reference": "Do you think that my way of teaching is wrong?",
+    "translation": "Do you think you're my way.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.050975399994058535
+  },
+  {
+    "id": "tatoeba-row-199438",
+    "source": "Elle lui conseilla d'arrêter de travailler autant.",
+    "reference": "She advised him to stop working so much.",
+    "translation": "She advised him to stop work.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.060962599993217736
+  },
+  {
+    "id": "tatoeba-row-146969",
+    "source": "Vous n'êtes plus les bienvenus ici.",
+    "reference": "You are no longer welcome here.",
+    "translation": "You're no more difficulter here.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.06491259997710586
+  },
+  {
+    "id": "tatoeba-row-187447",
+    "source": "Es-tu sûr de vouloir faire ça ?",
+    "reference": "Are you sure that you want to do this?",
+    "translation": "Are you sure you want to do that?",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.06223820001468994
+  },
+  {
+    "id": "tatoeba-row-27831",
+    "source": "Tom me manque vraiment.",
+    "reference": "I really miss Tom.",
+    "translation": "Tom really hidence.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.0407017000252381
+  },
+  {
+    "id": "tatoeba-row-74239",
+    "source": "Est-ce qu'on a assez de farine ?",
+    "reference": "Do we have enough flour?",
+    "translation": "Is that he am enough time?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04528029999346472
+  },
+  {
+    "id": "tatoeba-row-207576",
+    "source": "OVNI signifie objet volant non identifié.",
+    "reference": "UFO stands for unidentified flying object.",
+    "translation": "Mananananery a flooniiiizy.",
+    "output_tokens": 19,
+    "hit_length_cap": false,
+    "seconds": 0.10413719998905435
+  },
+  {
+    "id": "tatoeba-row-209297",
+    "source": "Je viendrai te rendre visite chez toi demain.",
+    "reference": "I'll come visit you at your house tomorrow.",
+    "translation": "I'll come to go to you tomorrow.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06306410001707263
+  },
+  {
+    "id": "tatoeba-row-227450",
+    "source": "Cela coûte cher de louer un bureau dans le centre de Boston.",
+    "reference": "It's expensive to rent an office in downtown Boston.",
+    "translation": "It's looking for the office in the office in Boston.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.07057189999613911
+  },
+  {
+    "id": "tatoeba-row-133062",
+    "source": "Je vous ai menti, l'autre soir.",
+    "reference": "I lied to you the other night.",
+    "translation": "I lie you to the evening night.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.057438100018771365
+  },
+  {
+    "id": "tatoeba-row-98724",
+    "source": "Ce n'est pas si mauvais dans l'ensemble.",
+    "reference": "That's not altogether bad.",
+    "translation": "That's not so bad on yourin.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.061017800006084144
+  },
+  {
+    "id": "tatoeba-row-97468",
+    "source": "Ça me donne mal au crâne.",
+    "reference": "It's giving me a headache.",
+    "translation": "It gave me a mower.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05004659999394789
+  },
+  {
+    "id": "tatoeba-row-213614",
+    "source": "Tu ne m'as rien dit sur toi.",
+    "reference": "You haven't told me anything about yourself.",
+    "translation": "You won't told me about you.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05487449999782257
+  },
+  {
+    "id": "tatoeba-row-31247",
+    "source": "Nous avons besoin d'une réponse.",
+    "reference": "We need an answer.",
+    "translation": "We need a answer.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03328090001014061
+  },
+  {
+    "id": "tatoeba-row-48365",
+    "source": "Veux-tu une pomme ?",
+    "reference": "Do you want an apple?",
+    "translation": "Do you want a most?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04264500000863336
+  },
+  {
+    "id": "tatoeba-row-76698",
+    "source": "Je l'ai vu jouer au baseball.",
+    "reference": "I saw him play baseball.",
+    "translation": "I saw it to play baseball.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.050239099975442514
+  },
+  {
+    "id": "tatoeba-row-146490",
+    "source": "Que vous êtes-vous fait ?",
+    "reference": "What have you done to yourself?",
+    "translation": "What are you doing?",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03250369997113012
+  },
+  {
+    "id": "tatoeba-row-188188",
+    "source": "Comment oses-tu me parler sur ce ton ?",
+    "reference": "How dare you speak to me in that tone!",
+    "translation": "How do you have to talk to your me?",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.055629100010264665
+  },
+  {
+    "id": "tatoeba-row-190783",
+    "source": "Plus tu étudies, plus tu sais.",
+    "reference": "The more you study, the more you know.",
+    "translation": "Severever are you more.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04181779999635182
+  },
+  {
+    "id": "tatoeba-row-167149",
+    "source": "Elle l'a regardé tracer un dessin.",
+    "reference": "She watched him drawing a picture.",
+    "translation": "She looked him to buy a picture.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05736929998965934
+  },
+  {
+    "id": "tatoeba-row-97754",
+    "source": "Puis-je emprunter votre vélo ?",
+    "reference": "May I borrow your bicycle?",
+    "translation": "Can I get your bike?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04413579998072237
+  },
+  {
+    "id": "tatoeba-row-136434",
+    "source": "Ils ont utilisé un appareil photo à haute vitesse.",
+    "reference": "They used a high-speed camera.",
+    "translation": "They use a picture on my camera.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.061869400000432506
+  },
+  {
+    "id": "tatoeba-row-102467",
+    "source": "Pouvez-vous résoudre ce problème ?",
+    "reference": "Can you solve this problem?",
+    "translation": "Can you reserve this problem?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.05254170001717284
+  },
+  {
+    "id": "tatoeba-row-94691",
+    "source": "J'ai oublié le livre à la maison.",
+    "reference": "I forgot the book at home.",
+    "translation": "I forgot the book about home.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05256419998477213
+  },
+  {
+    "id": "tatoeba-row-231881",
+    "source": "Ces vêtements sont inadaptés à un jour d'hiver froid.",
+    "reference": "These clothes are not appropriate for a cold winter day.",
+    "translation": "These hes are clothes at a day's a cold.",
+    "output_tokens": 17,
+    "hit_length_cap": false,
+    "seconds": 0.09243119999882765
+  },
+  {
+    "id": "tatoeba-row-93564",
+    "source": "Il se moque de tout le monde.",
+    "reference": "He makes fun of everybody.",
+    "translation": "He is the world of everybody.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.052697100007208064
+  },
+  {
+    "id": "tatoeba-row-53308",
+    "source": "Le bruit m'a réveillé.",
+    "reference": "The noise woke me up.",
+    "translation": "The hold is the womed.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.058842600003117695
+  },
+  {
+    "id": "tatoeba-row-63256",
+    "source": "On a un gros problème.",
+    "reference": "We have a big problem.",
+    "translation": "We have a big problem.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.038648300018394366
+  },
+  {
+    "id": "tatoeba-row-44204",
+    "source": "Écoutez-moi, s'il vous plaît.",
+    "reference": "Please listen to me.",
+    "translation": "Please go to me, please.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04281500002252869
+  },
+  {
+    "id": "tatoeba-row-4327",
+    "source": "Tom l'a vu.",
+    "reference": "Tom saw her.",
+    "translation": "Tom saw it.",
+    "output_tokens": 5,
+    "hit_length_cap": false,
+    "seconds": 0.027567200013436377
+  },
+  {
+    "id": "tatoeba-row-203245",
+    "source": "Construis une phrase avec chacun de ces mots.",
+    "reference": "Make a sentence with each of these words.",
+    "translation": "Cuuuuge with these caughter.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.06371220000437461
+  },
+  {
+    "id": "tatoeba-row-141528",
+    "source": "J'espère que tu as apporté un parapluie.",
+    "reference": "I hope you brought an umbrella.",
+    "translation": "I hope you're a flold.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06646920001367107
+  },
+  {
+    "id": "tatoeba-row-108114",
+    "source": "Ce n'est pas ce que Tom a voulu dire.",
+    "reference": "That wasn't what Tom meant.",
+    "translation": "That isn't what Tom meant.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05075709999073297
+  },
+  {
+    "id": "tatoeba-row-21513",
+    "source": "Je mange rarement au restaurant.",
+    "reference": "I rarely eat out.",
+    "translation": "I eatenly eating to the restaurant.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06237430000328459
+  },
+  {
+    "id": "tatoeba-row-2209",
+    "source": "Je le ferai.",
+    "reference": "I'll do it.",
+    "translation": "I'll do it.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.03869789998861961
+  },
+  {
+    "id": "tatoeba-row-140193",
+    "source": "Il a dû pénétrer dans cette pièce.",
+    "reference": "He must have entered this room.",
+    "translation": "He should've picked this room.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.0542905000038445
+  },
+  {
+    "id": "tatoeba-row-31751",
+    "source": "Qui sont ces hommes ?",
+    "reference": "Who are these men?",
+    "translation": "Who are these?",
+    "output_tokens": 5,
+    "hit_length_cap": false,
+    "seconds": 0.026968800026224926
+  },
+  {
+    "id": "tatoeba-row-121096",
+    "source": "Vous écoutez de l'anglais ?",
+    "reference": "Are you listening to English?",
+    "translation": "Do you writ the team?",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.046065300004556775
+  },
+  {
+    "id": "tatoeba-row-167575",
+    "source": "Le sable sur la plage est très chaud.",
+    "reference": "The sand on the beach is very hot.",
+    "translation": "The horor is the very loud.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06125359999714419
+  },
+  {
+    "id": "tatoeba-row-156511",
+    "source": "Il laissa le chien en liberté dans la cour.",
+    "reference": "He let the dog loose in the yard.",
+    "translation": "He left the dog on the rail.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.06230319998576306
+  },
+  {
+    "id": "tatoeba-row-131199",
+    "source": "Tenez bon ! Nous arrivons.",
+    "reference": "Hang on. We'll be right there.",
+    "translation": "We're good going to happen.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.07129369999165647
+  },
+  {
+    "id": "tatoeba-row-172364",
+    "source": "J'aurais aimé que vous puissiez être venus avec moi.",
+    "reference": "I wish you could have come with me.",
+    "translation": "I wish you could be with me.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05226179998135194
+  },
+  {
+    "id": "tatoeba-row-134999",
+    "source": "Les menteurs doivent posséder une bonne mémoire.",
+    "reference": "Liars must have a good memory.",
+    "translation": "The lieetgger for a good memory.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.08461469999747351
+  },
+  {
+    "id": "tatoeba-row-51094",
+    "source": "Je vais te donner un indice.",
+    "reference": "I'll give you a hint.",
+    "translation": "I'll give you a ste.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05550139999832027
+  },
+  {
+    "id": "tatoeba-row-159059",
+    "source": "Je suis désolé d'avoir gâché autant d'argent.",
+    "reference": "I'm sorry I wasted so much money.",
+    "translation": "I'm sorry for a gunkker of money.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.08065179997356609
+  },
+  {
+    "id": "tatoeba-row-224362",
+    "source": "Je ne pense pas que Tom connaisse le groupe sanguin de Mary.",
+    "reference": "I don't think Tom knows what Mary's blood type is.",
+    "translation": "I don't think Tom knows that Mary's blood Mary.",
+    "output_tokens": 16,
+    "hit_length_cap": false,
+    "seconds": 0.08206159999826923
+  },
+  {
+    "id": "tatoeba-row-132637",
+    "source": "Je suis désolé que vous dussiez partir.",
+    "reference": "I hate that you have to leave.",
+    "translation": "I'm sorry you're going to leave.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06401459997869097
+  },
+  {
+    "id": "tatoeba-row-190424",
+    "source": "Elle va souvent au cinéma avec lui.",
+    "reference": "She often goes to the movies with him.",
+    "translation": "She goes to the movies with him.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05330709999543615
+  },
+  {
+    "id": "tatoeba-row-163445",
+    "source": "Ne perds pas de vue tes enfants.",
+    "reference": "Don't lose sight of your children.",
+    "translation": "Don't keep your children.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.046514199988450855
+  },
+  {
+    "id": "tatoeba-row-187261",
+    "source": "Tu es la seule fille que j'ai jamais aimée.",
+    "reference": "You're the only girl I've ever loved.",
+    "translation": "You're the only one to like I've lik.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.07993910001823679
+  },
+  {
+    "id": "tatoeba-row-205746",
+    "source": "Je ne pense pas que quiconque puisse m'aider, désormais.",
+    "reference": "I don't think that anyone can help me now.",
+    "translation": "I don't think that we can help me.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06287940000765957
+  },
+  {
+    "id": "tatoeba-row-144152",
+    "source": "Elle m'a appelé dans l'après-midi.",
+    "reference": "She called me in the afternoon.",
+    "translation": "She called me in the worthood.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05842450002091937
+  },
+  {
+    "id": "tatoeba-row-199280",
+    "source": "Mes lunettes se mirent à glisser au bas de mon nez.",
+    "reference": "My glasses started to slip down my nose.",
+    "translation": "My glasses'reross the mountain of my bird.",
+    "output_tokens": 18,
+    "hit_length_cap": false,
+    "seconds": 0.09319099999265745
+  },
+  {
+    "id": "tatoeba-row-108831",
+    "source": "Ce poisson n'est pas comestible.",
+    "reference": "This fish isn't fit to eat.",
+    "translation": "This mood isn'ther that is not for me.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.08291140000801533
+  },
+  {
+    "id": "tatoeba-row-184390",
+    "source": "Je vais essayer de piéger ce lapin.",
+    "reference": "I'm going to try to trap that rabbit.",
+    "translation": "I'm try to be lying this.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.0595000000030268
+  },
+  {
+    "id": "tatoeba-row-36421",
+    "source": "La nature se transforme.",
+    "reference": "Nature is changing.",
+    "translation": "The narix is nark.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.07953590000397526
+  },
+  {
+    "id": "tatoeba-row-16310",
+    "source": "Je la détruirai.",
+    "reference": "I'll destroy it.",
+    "translation": "I'm the detain.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05236920001334511
+  },
+  {
+    "id": "tatoeba-row-61059",
+    "source": "Ma mère est avocat.",
+    "reference": "My mother is a lawyer.",
+    "translation": "My mother is fnoc.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04392550000920892
+  },
+  {
+    "id": "tatoeba-row-149791",
+    "source": "J'ai beaucoup de respect pour vous.",
+    "reference": "I have a lot of respect for you.",
+    "translation": "I have a lot of respect for you.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06292319999192841
+  },
+  {
+    "id": "tatoeba-row-125241",
+    "source": "Je suis vraiment heureux que nous ayons gagné.",
+    "reference": "I'm really happy that we won.",
+    "translation": "I really hurry that we'll wife.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.08268809999572113
+  },
+  {
+    "id": "tatoeba-row-95240",
+    "source": "Je sais que vous aimez le chocolat.",
+    "reference": "I know you like chocolate.",
+    "translation": "I know you likes the lawyer.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06320709999999963
+  },
+  {
+    "id": "tatoeba-row-172836",
+    "source": "Je viens de mettre de nouveaux draps sur mon lit.",
+    "reference": "I've just put new sheets on my bed.",
+    "translation": "I just got married on my news.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05441779998363927
+  },
+  {
+    "id": "tatoeba-row-133248",
+    "source": "Je posai la main sur son épaule.",
+    "reference": "I put my hand on his shoulder.",
+    "translation": "I'll library his shoulders.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.057243899995228276
+  },
+  {
+    "id": "tatoeba-row-214953",
+    "source": "Ça a été mon rêve depuis que je suis petite fille.",
+    "reference": "It's been my dream since I was a little girl.",
+    "translation": "It was my dreaming daughter than I'm daughter.",
+    "output_tokens": 18,
+    "hit_length_cap": false,
+    "seconds": 0.09984629999962635
+  },
+  {
+    "id": "tatoeba-row-81436",
+    "source": "Que pensez-vous que j'aie fait ?",
+    "reference": "What do you think I did?",
+    "translation": "What do you think I did?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04937110000173561
+  },
+  {
+    "id": "tatoeba-row-32743",
+    "source": "Amène Tom avec toi.",
+    "reference": "Bring Tom with you.",
+    "translation": "Beet on Tom with you.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05455299999448471
+  },
+  {
+    "id": "tatoeba-row-80897",
+    "source": "Essayez de ne pas pleurer.",
+    "reference": "Try to keep from crying.",
+    "translation": "Try no long.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.037324000004446134
+  },
+  {
+    "id": "tatoeba-row-159073",
+    "source": "Je suis désolé de t'ennuyer si souvent.",
+    "reference": "I'm sorry to bother you so often.",
+    "translation": "I'm sorry to bother you if you like to press.",
+    "output_tokens": 16,
+    "hit_length_cap": false,
+    "seconds": 0.09191580000333488
+  },
+  {
+    "id": "tatoeba-row-158429",
+    "source": "Je pensais que vous saviez parler français.",
+    "reference": "I thought you could speak French.",
+    "translation": "I thought you can speak French.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04137789999367669
+  },
+  {
+    "id": "tatoeba-row-175418",
+    "source": "Ce que disent les gens n'est pas toujours vrai.",
+    "reference": "What people say is not always true.",
+    "translation": "That That That else isn't true.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05271359998732805
+  },
+  {
+    "id": "tatoeba-row-113693",
+    "source": "J'ai fait mes devoirs hier.",
+    "reference": "I did my homework yesterday.",
+    "translation": "I made my home yesterday.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.050462899991543964
+  },
+  {
+    "id": "tatoeba-row-38178",
+    "source": "Tom a l'air soulagé.",
+    "reference": "Tom seems relieved.",
+    "translation": "Tom seems sounded.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.04034590002265759
+  },
+  {
+    "id": "tatoeba-row-55916",
+    "source": "Tu as été génial aujourd'hui.",
+    "reference": "You were great today.",
+    "translation": "You've been coffee today.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05117630001041107
+  },
+  {
+    "id": "tatoeba-row-39527",
+    "source": "Tu parles trop.",
+    "reference": "You speak too much.",
+    "translation": "You're too much.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.037990500015439466
+  },
+  {
+    "id": "tatoeba-row-213795",
+    "source": "Pour autant que je sache, c'est l'édition la plus récente.",
+    "reference": "As far as I know, this is the latest edition.",
+    "translation": "As far as I lived the burope, so redge.",
+    "output_tokens": 17,
+    "hit_length_cap": false,
+    "seconds": 0.09584619998349808
+  },
+  {
+    "id": "tatoeba-row-142245",
+    "source": "Je pensais que vous étiez endormie.",
+    "reference": "I thought that you were asleep.",
+    "translation": "I thought you were asleep.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.04296230000909418
+  },
+  {
+    "id": "tatoeba-row-167492",
+    "source": "C'est le point le plus profond du lac.",
+    "reference": "The lake is deepest at this point.",
+    "translation": "That's the teacher the teacher the teacher.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.055372499977238476
+  },
+  {
+    "id": "tatoeba-row-196108",
+    "source": "Tom promit de m'écrire chaque semaine.",
+    "reference": "Tom promised to write to me every week.",
+    "translation": "Tom promise to write furope.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05647609999869019
+  },
+  {
+    "id": "tatoeba-row-44768",
+    "source": "Ça fait vraiment peur.",
+    "reference": "That's really scary.",
+    "translation": "It's really afraid.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.03539130001445301
+  },
+  {
+    "id": "tatoeba-row-197220",
+    "source": "Est-ce que cette barre chocolatée contient des noisettes ?",
+    "reference": "Does that chocolate bar have nuts in it?",
+    "translation": "Is this this the teale tasureles?",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.06471120001515374
+  },
+  {
+    "id": "tatoeba-row-40561",
+    "source": "Ta femme le sait-elle ?",
+    "reference": "Does your wife know?",
+    "translation": "Do you'll wife?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04204629999003373
+  },
+  {
+    "id": "tatoeba-row-228549",
+    "source": "Je veux que tu comprennes que ça ne va pas être aisé.",
+    "reference": "I want you to understand this isn't going to be easy.",
+    "translation": "I want you to understand this is going to be wrong.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.0645694000122603
+  },
+  {
+    "id": "tatoeba-row-88215",
+    "source": "Venez-en au fait, s'il vous plaît.",
+    "reference": "Please come to the point.",
+    "translation": "Please do it, please.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.03764439999940805
+  },
+  {
+    "id": "tatoeba-row-15329",
+    "source": "Aidez-nous, je vous prie !",
+    "reference": "Help us, please.",
+    "translation": "Be careful, please.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.0402847999939695
+  },
+  {
+    "id": "tatoeba-row-105444",
+    "source": "Je suppose qu'il a raison.",
+    "reference": "I suppose he's got a point.",
+    "translation": "I suppose that he's right.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04540959998848848
+  },
+  {
+    "id": "tatoeba-row-139085",
+    "source": "Tout le monde peut résoudre un tel problème.",
+    "reference": "Anybody can solve that problem.",
+    "translation": "Everyone can't solve a problem.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05040550002013333
+  },
+  {
+    "id": "tatoeba-row-210597",
+    "source": "Essayez ces chaussures et voyez si elles vous vont.",
+    "reference": "Try these shoes on and see if they fit you.",
+    "translation": "Try on the truation and further you.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.07365819998085499
+  },
+  {
+    "id": "tatoeba-row-32404",
+    "source": "Vous êtes trop modeste.",
+    "reference": "You're too modest.",
+    "translation": "You're too hooon.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.0499716000049375
+  },
+  {
+    "id": "tatoeba-row-137703",
+    "source": "Nous sommes très nerveux à ce sujet.",
+    "reference": "We're very nervous about that.",
+    "translation": "We're very hair of this.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.053842399996938184
+  },
+  {
+    "id": "tatoeba-row-3423",
+    "source": "J'adore la vie.",
+    "reference": "I love life.",
+    "translation": "I love the life.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03427250002278015
+  },
+  {
+    "id": "tatoeba-row-54323",
+    "source": "Tom a dit que nous pouvons rester.",
+    "reference": "Tom said we can stay.",
+    "translation": "Tom told us we can stay.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.0493080000160262
+  },
+  {
+    "id": "tatoeba-row-89707",
+    "source": "Ce n'est pas mon domaine.",
+    "reference": "This is not my specialty.",
+    "translation": "That's not my suit.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.06036899998434819
+  },
+  {
+    "id": "tatoeba-row-153099",
+    "source": "La tour peut être vue d'ici.",
+    "reference": "The tower can be seen from here.",
+    "translation": "The can be fire mays for the ran.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.07636969999293797
+  },
+  {
+    "id": "tatoeba-row-152827",
+    "source": "Les bénéfices l'emportent sur les coûts.",
+    "reference": "The benefits outweigh the costs.",
+    "translation": "The babygery is on the furope.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.08205789999919944
+  },
+  {
+    "id": "tatoeba-row-96641",
+    "source": "Je suis content d'avoir pu aider.",
+    "reference": "I'm glad I could help out.",
+    "translation": "I'm glad I could help.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04727009998168796
+  },
+  {
+    "id": "tatoeba-row-187361",
+    "source": "Un ami m'a appelé hier soir.",
+    "reference": "A friend of mine called me last night.",
+    "translation": "A friend me yesterday.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03424840001389384
+  },
+  {
+    "id": "tatoeba-row-210681",
+    "source": "Nous restâmes avec eux tout au long de l'été.",
+    "reference": "We stayed with them all through the summer.",
+    "translation": "We stayed with the longer of the long.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06527849999838509
+  },
+  {
+    "id": "tatoeba-row-112743",
+    "source": "Avez-vous déjà lavé l’automobile ?",
+    "reference": "Have you washed the car yet?",
+    "translation": "Have you ever been the chooseling?",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06189839998842217
+  },
+  {
+    "id": "tatoeba-row-111496",
+    "source": "Vous mettez ma patience à l'épreuve.",
+    "reference": "You're testing my patience.",
+    "translation": "You're my patience to the lose my lake.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.07669539999915287
+  },
+  {
+    "id": "tatoeba-row-12824",
+    "source": "Lis ce livre.",
+    "reference": "Read this book.",
+    "translation": "The book is this book.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.035565300000598654
+  },
+  {
+    "id": "tatoeba-row-163826",
+    "source": "Il a remboursé son emprunt à la banque.",
+    "reference": "He paid his loan back to the bank.",
+    "translation": "He walled his walling at the banoon.",
+    "output_tokens": 16,
+    "hit_length_cap": false,
+    "seconds": 0.08049469999969006
+  },
+  {
+    "id": "tatoeba-row-69449",
+    "source": "Achetons cette casquette à Tom.",
+    "reference": "Let's buy Tom this cap.",
+    "translation": "Let's get that cas.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04714459998649545
+  },
+  {
+    "id": "tatoeba-row-138867",
+    "source": "Tu n'es pas des nôtres, si ?",
+    "reference": "You're not one of us, are you?",
+    "translation": "You're not free, do you?",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05603619999601506
+  },
+  {
+    "id": "tatoeba-row-122812",
+    "source": "Je l'achetai chez le boucher.",
+    "reference": "I bought it at the butcher's.",
+    "translation": "I'm the candand for the cow.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.07210530000156723
+  },
+  {
+    "id": "tatoeba-row-158911",
+    "source": "Je crains que nous soyons en minorité.",
+    "reference": "I'm afraid we're in the minority.",
+    "translation": "I'm afraid we'll bories.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06002139998599887
+  },
+  {
+    "id": "tatoeba-row-74349",
+    "source": "Te faut-il un chauffeur pour rentrer chez toi ?",
+    "reference": "Do you need a ride home?",
+    "translation": "Do you need a birt for you home?",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06192700000246987
+  },
+  {
+    "id": "tatoeba-row-185221",
+    "source": "Elle lui a conseillé de tenir ses promesses.",
+    "reference": "She advised him to keep his promises.",
+    "translation": "She advised him to her promister.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06205290000070818
+  },
+  {
+    "id": "tatoeba-row-197153",
+    "source": "Avez-vous dit à Tom ce qu'il avait besoin de savoir ?",
+    "reference": "Did you tell Tom what he needed to know?",
+    "translation": "Do you say Tom to know what he need?",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06948819998069666
+  },
+  {
+    "id": "tatoeba-row-55235",
+    "source": "Quand es-tu entrée ?",
+    "reference": "When did you come in?",
+    "translation": "When did you come?",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.03187989999423735
+  },
+  {
+    "id": "tatoeba-row-75093",
+    "source": "Il veut que je l'aide.",
+    "reference": "He wants me to help him.",
+    "translation": "He want I helped help.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.05039230000693351
+  },
+  {
+    "id": "tatoeba-row-71383",
+    "source": "Tom a fait vingt pompes.",
+    "reference": "Tom did twenty pushups.",
+    "translation": "Tom is acception.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.0454541000071913
+  },
+  {
+    "id": "tatoeba-row-199675",
+    "source": "Le panier était rempli de fraises.",
+    "reference": "The basket was filled with strawberries.",
+    "translation": "The pur was furen from front of the brother.",
+    "output_tokens": 16,
+    "hit_length_cap": false,
+    "seconds": 0.08050689997617155
+  },
+  {
+    "id": "tatoeba-row-62646",
+    "source": "Tom s’est corrigé tout seul.",
+    "reference": "Tom corrected himself.",
+    "translation": "Tom took his dressed at alone.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.04880879999836907
+  },
+  {
+    "id": "tatoeba-row-77276",
+    "source": "Je vous aurais attendu.",
+    "reference": "I'd have waited for you.",
+    "translation": "I could'd be sold.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04373549998854287
+  },
+  {
+    "id": "tatoeba-row-54787",
+    "source": "Nous avons marché jusqu'à ma chambre.",
+    "reference": "We walked to my room.",
+    "translation": "We have a bit my extreet.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.049302700004773214
+  },
+  {
+    "id": "tatoeba-row-230191",
+    "source": "Tom a dit qu'il cherchait quelqu'un qui parle français.",
+    "reference": "Tom said he was looking for someone who speaks French.",
+    "translation": "Tom told he was going to French.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04460499997367151
+  },
+  {
+    "id": "tatoeba-row-159835",
+    "source": "Personne n'en connaît la raison.",
+    "reference": "No one knows the reason for that.",
+    "translation": "Nobody knows it to det right.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.04956899999524467
+  },
+  {
+    "id": "tatoeba-row-31840",
+    "source": "Pourquoi pars-tu ?",
+    "reference": "Why are you going?",
+    "translation": "Why are you talking?",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.030963600001996383
+  },
+  {
+    "id": "tatoeba-row-216827",
+    "source": "Je sais que Tom voudrait apprendre à le faire.",
+    "reference": "I know Tom might want to learn how to do that.",
+    "translation": "I know Tom will like to do that.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.049934000009670854
+  },
+  {
+    "id": "tatoeba-row-66067",
+    "source": "Sa colère éclata.",
+    "reference": "He broke out into rage.",
+    "translation": "His hearthatat.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04473270001471974
+  },
+  {
+    "id": "tatoeba-row-79777",
+    "source": "Le monde nous appartient.",
+    "reference": "The world belongs to us.",
+    "translation": "The worldld us.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.034503000002587214
+  },
+  {
+    "id": "tatoeba-row-199610",
+    "source": "Merci à toi d'avoir fait ce qu'il fallait.",
+    "reference": "Thanks for doing what needed to be done.",
+    "translation": "Thank you for you for me what he was wrong.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06667050000396557
+  },
+  {
+    "id": "tatoeba-row-148447",
+    "source": "Il ne veut pas être impliqué.",
+    "reference": "He doesn't want to get involved.",
+    "translation": "He doesn't want to be impumb.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.08128009998472407
+  },
+  {
+    "id": "tatoeba-row-140631",
+    "source": "J'essaie toujours de dire la vérité.",
+    "reference": "I always try to tell the truth.",
+    "translation": "I'm always telling the truth.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.07443829998373985
+  },
+  {
+    "id": "tatoeba-row-198376",
+    "source": "Je pense qu'il nous faut remettre la réunion.",
+    "reference": "I think we need to postpone the meeting.",
+    "translation": "I think we'll need to get home.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06311970000388101
+  },
+  {
+    "id": "tatoeba-row-170281",
+    "source": "Ne penses-tu pas qu'il soit l'heure que tu partes ?",
+    "reference": "Don't you think it's time you left?",
+    "translation": "Don't you think it's time for the time?",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.09814980000373907
+  },
+  {
+    "id": "tatoeba-row-124290",
+    "source": "Je pense que vous vous trompez.",
+    "reference": "I think that you're mistaken.",
+    "translation": "I think you're wrong.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04195620000245981
+  },
+  {
+    "id": "tatoeba-row-88939",
+    "source": "Ce n'est pas très original.",
+    "reference": "That's not very original.",
+    "translation": "That's not very oralous.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05693459999747574
+  },
+  {
+    "id": "tatoeba-row-18301",
+    "source": "Tom est troublé.",
+    "reference": "Tom is unnerved.",
+    "translation": "Tom is lyed.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.041195099998731166
+  },
+  {
+    "id": "tatoeba-row-136222",
+    "source": "Les troupes avaient plein d'armes.",
+    "reference": "The troops had plenty of arms.",
+    "translation": "The boldiers were a great of.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06478670000797138
+  },
+  {
+    "id": "tatoeba-row-198643",
+    "source": "Je te dégoterai un vélo pour ton anniversaire.",
+    "reference": "I will get you a bike for your birthday.",
+    "translation": "I'll disappointed you for a bike.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.07276730000739917
+  },
+  {
+    "id": "tatoeba-row-37795",
+    "source": "Tom cria à l'aide.",
+    "reference": "Tom cried for help.",
+    "translation": "Tom criricted help.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04788510000798851
+  },
+  {
+    "id": "tatoeba-row-111723",
+    "source": "Vas-tu voter aujourd'hui ?",
+    "reference": "Are you going to vote today?",
+    "translation": "Do you want to come today?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.042534599982900545
+  },
+  {
+    "id": "tatoeba-row-150681",
+    "source": "J'ai dit à Tom que Marie s'en venait.",
+    "reference": "I told Tom that Mary was coming.",
+    "translation": "I told Tom that Tom was coming.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04763939999975264
+  },
+  {
+    "id": "tatoeba-row-128025",
+    "source": "Tom est une personne très étrange.",
+    "reference": "Tom is a very strange person.",
+    "translation": "Tom is a very strange.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.0424652999790851
+  },
+  {
+    "id": "tatoeba-row-102646",
+    "source": "As-tu vu la transcription ?",
+    "reference": "Did you see the transcript?",
+    "translation": "Have you seen the sister?",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04777410000679083
+  },
+  {
+    "id": "tatoeba-row-209119",
+    "source": "Je pense que nous recherchons des choses différentes.",
+    "reference": "I think we're looking for different things.",
+    "translation": "I think we're going to different.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05764459999045357
+  },
+  {
+    "id": "tatoeba-row-135905",
+    "source": "C'est quelque chose que nous avons réalisé.",
+    "reference": "That's something that we made.",
+    "translation": "That's something we've got something.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05691030001617037
+  },
+  {
+    "id": "tatoeba-row-86276",
+    "source": "Je pensais que vous seriez heureuses.",
+    "reference": "I thought you'd be happy.",
+    "translation": "I thought you'd be happy.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04741030000150204
+  },
+  {
+    "id": "tatoeba-row-217811",
+    "source": "La tempête a eu un effet grave sur l'économie.",
+    "reference": "The storm had a serious effect on the economy.",
+    "translation": "The investigigation is a bird on the standom.",
+    "output_tokens": 18,
+    "hit_length_cap": false,
+    "seconds": 0.08437719999346882
+  },
+  {
+    "id": "tatoeba-row-98221",
+    "source": "Elle a abandonné ses études.",
+    "reference": "She dropped out of school.",
+    "translation": "She gave his argothers.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04216979999910109
+  },
+  {
+    "id": "tatoeba-row-75146",
+    "source": "Il sera toujours là.",
+    "reference": "He will always be there.",
+    "translation": "He always be there.",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.030268300004536286
+  },
+  {
+    "id": "tatoeba-row-102330",
+    "source": "De nos jours, la viande est chère.",
+    "reference": "Beef is expensive nowadays.",
+    "translation": "As far, the mil is come.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05043079997994937
+  },
+  {
+    "id": "tatoeba-row-135665",
+    "source": "Fumer pendant le travail est interdit.",
+    "reference": "Smoking on duty isn't allowed.",
+    "translation": "Smmmming for for work.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06005050000385381
+  },
+  {
+    "id": "tatoeba-row-181711",
+    "source": "Il te faut choisir ton propre destin.",
+    "reference": "You have to choose your own destiny.",
+    "translation": "You need to your womest.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04449540001223795
+  },
+  {
+    "id": "tatoeba-row-104799",
+    "source": "J'ai l'as de carreau.",
+    "reference": "I have the ace of diamonds.",
+    "translation": "I have a cut of car.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.06810750000295229
+  },
+  {
+    "id": "tatoeba-row-29149",
+    "source": "L'amour est passager.",
+    "reference": "Love is transient.",
+    "translation": "The treet is swim.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.06273110001347959
+  },
+  {
+    "id": "tatoeba-row-185277",
+    "source": "Elle reçut un présent de son petit copain.",
+    "reference": "She got a present from her boyfriend.",
+    "translation": "She return able to his girlfriend.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.06729109998559579
+  },
+  {
+    "id": "tatoeba-row-180950",
+    "source": "Tom prend très soin de sa voiture.",
+    "reference": "Tom takes very good care of his car.",
+    "translation": "Tom takes very nice car.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04819560001487844
+  },
+  {
+    "id": "tatoeba-row-21742",
+    "source": "Je vais le buter.",
+    "reference": "I will shoot him.",
+    "translation": "I'll get it.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.036694199981866404
+  },
+  {
+    "id": "tatoeba-row-121714",
+    "source": "Ne laisse pas les enfants se battre.",
+    "reference": "Don't let the children fight.",
+    "translation": "Don't let the children't let the child.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.06775819999165833
+  },
+  {
+    "id": "tatoeba-row-197874",
+    "source": "Je n'ai aucun problème à croire ça.",
+    "reference": "I don't have any trouble believing that.",
+    "translation": "I have no problem to believe this.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.046259399998234585
+  },
+  {
+    "id": "tatoeba-row-151362",
+    "source": "Je suis certain que ça ira.",
+    "reference": "I'm sure there'll be no problem.",
+    "translation": "I'm sure that that's go.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.053777000022819266
+  },
+  {
+    "id": "tatoeba-row-100307",
+    "source": "Nous ignorons où il est.",
+    "reference": "We don't know where he is.",
+    "translation": "We're a night.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.03526380000403151
+  },
+  {
+    "id": "tatoeba-row-56730",
+    "source": "Y aviez-vous songé ?",
+    "reference": "Did you think of that?",
+    "translation": "Are you think you're serious?",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.06429599999682978
+  },
+  {
+    "id": "tatoeba-row-155892",
+    "source": "As-tu ton ordinateur portable avec toi ?",
+    "reference": "Do you have your laptop with you?",
+    "translation": "Do you lin your car with you?",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05866130001959391
+  },
+  {
+    "id": "tatoeba-row-128159",
+    "source": "Tom sait que je lui ai menti.",
+    "reference": "Tom knows that I lied to him.",
+    "translation": "Tom knows that I liered him.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05096100000082515
+  },
+  {
+    "id": "tatoeba-row-100247",
+    "source": "Nous n'avons pas encore très faim.",
+    "reference": "We aren't very hungry yet.",
+    "translation": "We're not very hungry.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05110370001057163
+  },
+  {
+    "id": "tatoeba-row-34208",
+    "source": "Je ne crois pas.",
+    "reference": "I don't think that.",
+    "translation": "I don't believe.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.037307699996745214
+  },
+  {
+    "id": "tatoeba-row-201469",
+    "source": "Il s'effondra lorsqu'il entendit les mauvaises nouvelles.",
+    "reference": "He broke down when he heard the bad news.",
+    "translation": "He stopped the news, he will come back the news.",
+    "output_tokens": 17,
+    "hit_length_cap": false,
+    "seconds": 0.08464549999916926
+  },
+  {
+    "id": "tatoeba-row-82841",
+    "source": "Es-tu toujours aussi occupé ?",
+    "reference": "Are you always that busy?",
+    "translation": "Are you still busy?",
+    "output_tokens": 6,
+    "hit_length_cap": false,
+    "seconds": 0.029524499987019226
+  },
+  {
+    "id": "tatoeba-row-24427",
+    "source": "Nous avons tous besoin d'amour.",
+    "reference": "We all need love.",
+    "translation": "We needed all exam.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04159649999928661
+  },
+  {
+    "id": "tatoeba-row-60820",
+    "source": "Laisse-moi prendre ton manteau.",
+    "reference": "Let me take your coat.",
+    "translation": "Let me take your coat.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04316810000455007
+  },
+  {
+    "id": "tatoeba-row-97173",
+    "source": "Est-ce que Tom est disposé à le faire ?",
+    "reference": "Is Tom willing to do that?",
+    "translation": "Is Tom is the wrong with Tom?",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05169789999490604
+  },
+  {
+    "id": "tatoeba-row-199517",
+    "source": "Elle étudie à la bibliothèque après l'école.",
+    "reference": "She studies in the library after school.",
+    "translation": "She studied to library after school.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.06738179997773841
+  },
+  {
+    "id": "tatoeba-row-43768",
+    "source": "Garde ton arme à portée de main !",
+    "reference": "Keep your gun handy.",
+    "translation": "Get your carport to hand.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.05897410001489334
+  },
+  {
+    "id": "tatoeba-row-103651",
+    "source": "Il parle l'anglais couramment.",
+    "reference": "He speaks English fluently.",
+    "translation": "He speaks the boters.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.052273400011472404
+  },
+  {
+    "id": "tatoeba-row-88772",
+    "source": "Cette maison est toute petite.",
+    "reference": "That house is very small.",
+    "translation": "This house is all all all.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04445819999091327
+  },
+  {
+    "id": "tatoeba-row-148138",
+    "source": "Ne t'attends pas à ce que les autres t'aident.",
+    "reference": "Don't expect others to help you.",
+    "translation": "Don't expect you to help you any whetime.",
+    "output_tokens": 15,
+    "hit_length_cap": false,
+    "seconds": 0.07847279999987222
+  },
+  {
+    "id": "tatoeba-row-139669",
+    "source": "Ne sois pas encore en retard à l'école.",
+    "reference": "Don't be late for school again.",
+    "translation": "Don't be late for school.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04470309999305755
+  },
+  {
+    "id": "tatoeba-row-117017",
+    "source": "Notre équipe a perdu tous ses matchs.",
+    "reference": "Our team lost all its games.",
+    "translation": "Our words cost at all his great.",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.06683009999687783
+  },
+  {
+    "id": "tatoeba-row-105657",
+    "source": "Je pensais que vous étiez blessées.",
+    "reference": "I thought you were injured.",
+    "translation": "I thought you were injure.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.04403950000414625
+  },
+  {
+    "id": "tatoeba-row-140029",
+    "source": "Il n'a pas accepté mes excuses.",
+    "reference": "He did not accept my apologies.",
+    "translation": "He has not accept myportun.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05503090002457611
+  },
+  {
+    "id": "tatoeba-row-145630",
+    "source": "Tom est un prénom courant, n'est-ce pas ?",
+    "reference": "Tom is a common name, isn't it?",
+    "translation": "Tom is a disappointed, isn't it?",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.06966939999256283
+  },
+  {
+    "id": "tatoeba-row-63581",
+    "source": "Qu'est-ce que je fais mal ?",
+    "reference": "What am I doing wrong?",
+    "translation": "What's I do you doing?",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.045723000017460436
+  },
+  {
+    "id": "tatoeba-row-204224",
+    "source": "Tom a aidé la vieille dame à traverser la rue.",
+    "reference": "Tom helped the old lady cross the street.",
+    "translation": "Tom helped his life across the stunned.",
+    "output_tokens": 14,
+    "hit_length_cap": false,
+    "seconds": 0.07282249999116175
+  },
+  {
+    "id": "tatoeba-row-34202",
+    "source": "Je dors peu.",
+    "reference": "I don't sleep much.",
+    "translation": "I'm a little chance.",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04560420001507737
+  },
+  {
+    "id": "tatoeba-row-172589",
+    "source": "Je suis juste heureux d'être ici avec toi.",
+    "reference": "I'm just happy to be here with you.",
+    "translation": "I'm just happy with you.",
+    "output_tokens": 9,
+    "hit_length_cap": false,
+    "seconds": 0.05167869999422692
+  },
+  {
+    "id": "tatoeba-row-40543",
+    "source": "Portez-vous des lunettes ?",
+    "reference": "Do you wear glasses?",
+    "translation": "Do you understand your glasses?",
+    "output_tokens": 8,
+    "hit_length_cap": false,
+    "seconds": 0.04818959999829531
+  },
+  {
+    "id": "tatoeba-row-189520",
+    "source": "J'écris des poèmes, mais ils sont vraiment mauvais.",
+    "reference": "I write poems, but they're really bad.",
+    "translation": "I'm diseming, but he was really hories.",
+    "output_tokens": 17,
+    "hit_length_cap": false,
+    "seconds": 0.08719830002519302
+  },
+  {
+    "id": "tatoeba-row-140394",
+    "source": "Son rêve est devenu une réalité.",
+    "reference": "His dream has become a reality.",
+    "translation": "His dream is a fixy.",
+    "output_tokens": 11,
+    "hit_length_cap": false,
+    "seconds": 0.05744629999389872
+  },
+  {
+    "id": "tatoeba-row-95872",
+    "source": "Je prends habituellement ma douche le soir.",
+    "reference": "I usually shower at night.",
+    "translation": "I'm taking able on my night.",
+    "output_tokens": 12,
+    "hit_length_cap": false,
+    "seconds": 0.06461750000016764
+  },
+  {
+    "id": "tatoeba-row-61147",
+    "source": "Une telle personne n'existe pas.",
+    "reference": "No such person exists.",
+    "translation": "One one is wrong.",
+    "output_tokens": 7,
+    "hit_length_cap": false,
+    "seconds": 0.036543099995469674
+  },
+  {
+    "id": "tatoeba-row-205152",
+    "source": "Veux-tu que je vienne te cuisiner quelque chose ?",
+    "reference": "Do you want me to come cook you something?",
+    "translation": "Do you want to cook you all the cook?",
+    "output_tokens": 13,
+    "hit_length_cap": false,
+    "seconds": 0.0616093999997247
+  },
+  {
+    "id": "tatoeba-row-64503",
+    "source": "Tu aurais dû me le dire.",
+    "reference": "You should've told me.",
+    "translation": "You should've tell me the matter.",
+    "output_tokens": 10,
+    "hit_length_cap": false,
+    "seconds": 0.053285200003301725
+  }
+]

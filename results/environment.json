@@ -1,0 +1,14 @@
+{
+  "python": "3.12.4",
+  "torch": "2.6.0+cu124",
+  "transformers": "4.57.1",
+  "peft": "0.17.1",
+  "sacrebleu": "2.5.1",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+  "cpu_threads": 4,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_memory_bytes": 4294443008,
+  "ram_bytes": 16948453376,
+  "cuda_version": "12.4"
+}

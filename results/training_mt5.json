@@ -1,0 +1,35 @@
+{
+  "method": "LoRA fine-tuning of pretrained mT5-small",
+  "training_seconds": 274.6268684990937,
+  "fit_wall_seconds": 304.8587373000046,
+  "optimizer_steps": 800,
+  "best_step": 800,
+  "best_validation_nll": 1.985526767866067,
+  "examples_seen": 6400,
+  "base_parameters": 300176768,
+  "parameters": 302525824,
+  "trainable_parameters": 2349056,
+  "precision": "bfloat16 frozen base with float32 LoRA adapters",
+  "device": "cuda",
+  "config": {
+    "max_steps": 800,
+    "micro_batch_size": 4,
+    "gradient_accumulation": 2,
+    "learning_rate": 0.001,
+    "warmup_steps": 50,
+    "evaluation_every": 100,
+    "source_max_tokens": 64,
+    "target_max_tokens": 48,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "target_modules": [
+      "q",
+      "v",
+      "lm_head"
+    ],
+    "seed": 42,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01
+  }
+}

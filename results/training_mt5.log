@@ -1,0 +1,59 @@
+You are using the default legacy behaviour of the <class 'transformers.models.t5.tokenization_t5.T5Tokenizer'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565
+`torch_dtype` is deprecated! Use `dtype` instead!
+mT5 step 20/800 loss=27.7494 train_s=6.9
+mT5 step 40/800 loss=25.4024 train_s=13.6
+mT5 step 60/800 loss=22.8761 train_s=20.1
+mT5 step 80/800 loss=20.0068 train_s=26.5
+mT5 step 100/800 loss=17.8980 train_s=33.5
+mT5 validation step 100: 6.3074; best step=100
+mT5 step 120/800 loss=7.5830 train_s=40.0
+mT5 step 140/800 loss=6.8877 train_s=46.7
+mT5 step 160/800 loss=6.4982 train_s=53.3
+mT5 step 180/800 loss=6.1523 train_s=60.1
+mT5 step 200/800 loss=5.8466 train_s=67.0
+mT5 validation step 200: 2.7731; best step=200
+mT5 step 220/800 loss=4.6689 train_s=73.5
+mT5 step 240/800 loss=4.4934 train_s=80.1
+mT5 step 260/800 loss=4.3490 train_s=86.8
+mT5 step 280/800 loss=4.2679 train_s=93.3
+mT5 step 300/800 loss=4.2045 train_s=100.0
+mT5 validation step 300: 2.3212; best step=300
+mT5 step 320/800 loss=3.8388 train_s=106.9
+mT5 step 340/800 loss=3.7622 train_s=113.6
+mT5 step 360/800 loss=3.6391 train_s=120.4
+mT5 step 380/800 loss=3.6082 train_s=127.1
+mT5 step 400/800 loss=3.6371 train_s=133.9
+mT5 validation step 400: 2.1080; best step=400
+mT5 step 420/800 loss=3.4697 train_s=141.2
+mT5 step 440/800 loss=3.4633 train_s=148.0
+mT5 step 460/800 loss=3.4776 train_s=154.8
+mT5 step 480/800 loss=3.4669 train_s=161.8
+mT5 step 500/800 loss=3.4561 train_s=168.6
+mT5 validation step 500: 2.0608; best step=500
+mT5 step 520/800 loss=3.4389 train_s=175.8
+mT5 step 540/800 loss=3.3176 train_s=182.8
+mT5 step 560/800 loss=3.3011 train_s=189.6
+mT5 step 580/800 loss=3.2709 train_s=196.3
+mT5 step 600/800 loss=3.2585 train_s=203.1
+mT5 validation step 600: 2.0363; best step=600
+mT5 step 620/800 loss=3.1751 train_s=210.0
+mT5 step 640/800 loss=3.2059 train_s=216.8
+mT5 step 660/800 loss=3.2066 train_s=223.7
+mT5 step 680/800 loss=3.2048 train_s=231.0
+mT5 step 700/800 loss=3.2104 train_s=237.9
+mT5 validation step 700: 1.9974; best step=700
+mT5 step 720/800 loss=3.1239 train_s=244.9
+mT5 step 740/800 loss=3.1169 train_s=251.8
+mT5 step 760/800 loss=3.1396 train_s=258.9
+mT5 step 780/800 loss=3.1296 train_s=266.6
+mT5 step 800/800 loss=3.1152 train_s=274.6
+mT5 validation step 800: 1.9855; best step=800
+mt5: translated 25/200
+mt5: translated 50/200
+mt5: translated 75/200
+mt5: translated 100/200
+mt5: translated 125/200
+mt5: translated 150/200
+mt5: translated 175/200
+mt5: translated 200/200
+{'bleu': 7.3447509386703205, 'chrf': 25.225100222783215, 'bleu_signature': 'nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.5.1', 'chrf_signature': 'nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.5.1', 'bleu_bp': 0.8673786089719551, 'bleu_ratio': 0.8754423213021939, 'inference_seconds': 82.57584029986174, 'inference_wall_seconds': 82.57855519998702, 'mean_latency_seconds': 0.4128792014993087, 'median_latency_seconds': 0.39190010000311304, 'test_sentences': 200, 'length_cap_hits': 1}

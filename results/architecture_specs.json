@@ -1,0 +1,50 @@
+{
+  "mt5": {
+    "architectures": [
+      "MT5ForConditionalGeneration"
+    ],
+    "d_model": 512,
+    "num_decoder_layers": 8,
+    "num_heads": 6,
+    "num_layers": 8,
+    "vocab_size": 250112
+  },
+  "llama": {
+    "architectures": [
+      "LlamaForCausalLM"
+    ],
+    "hidden_size": 2048,
+    "num_attention_heads": 32,
+    "num_hidden_layers": 16,
+    "num_key_value_heads": 8,
+    "vocab_size": 128256
+  },
+  "gemma": {
+    "architectures": [
+      "Gemma3ForCausalLM"
+    ],
+    "hidden_size": 640,
+    "num_attention_heads": 4,
+    "num_hidden_layers": 18,
+    "num_key_value_heads": 1,
+    "vocab_size": 262144
+  },
+  "basic": {
+    "vocab_size": 2000,
+    "d_model": 128,
+    "heads": 4,
+    "encoder_layers": 2,
+    "decoder_layers": 2,
+    "ff_dim": 512,
+    "dropout": 0.1,
+    "batch_size": 64,
+    "epochs": 20,
+    "learning_rate": 0.001,
+    "label_smoothing": 0.1,
+    "seed": 42,
+    "source_max_tokens": 64,
+    "target_max_tokens": 64,
+    "max_new_tokens": 48,
+    "tokenizer": "SentencePiece BPE trained only on the training split"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "train": {
+    "same_ordered_rows": true,
+    "pairs": 6000,
+    "sha256": "7a32cd57727f31af2fe5ede0935c8e978df257f6139144eed7239928319d08a6"
+  },
+  "validation": {
+    "same_ordered_rows": true,
+    "pairs": 200,
+    "sha256": "f58654a351d05b73e011697dda4ba424858b7d9a9c2f2f921e219dc988e130e3"
+  },
+  "test": {
+    "same_ordered_rows": true,
+    "pairs": 200,
+    "sha256": "26d6a6fa670df4e1bffc389681a1a98c03208ed6cfd4b27e8b59842363b689b7"
+  },
+  "archive_sha256": "9e35994767f7307dc1fa9d5efcc36681f3756a1bdaaa02c1381b3eb11461261e"
+}

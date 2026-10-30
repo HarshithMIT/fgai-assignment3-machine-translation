@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.pt binary
+*.safetensors binary
+*.model binary
+*.docx binary
+# Original notices and verbatim generated text can contain trailing whitespace.
+data/SOURCE_LICENSE.txt -whitespace
+results/all_test_translations.csv -whitespace

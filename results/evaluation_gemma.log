@@ -1,0 +1,11 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+gemma: translated 25/200
+gemma: translated 50/200
+gemma: translated 75/200
+gemma: translated 100/200
+gemma: translated 125/200
+gemma: translated 150/200
+gemma: translated 175/200
+gemma: translated 200/200
+{'bleu': 11.195125727010645, 'chrf': 23.81961001976849, 'bleu_signature': 'nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.5.1', 'chrf_signature': 'nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.5.1', 'bleu_bp': 0.9878961970881559, 'bleu_ratio': 0.9879688605803255, 'inference_seconds': 120.95174120023148, 'inference_wall_seconds': 120.95425740000792, 'mean_latency_seconds': 0.6047587060011574, 'median_latency_seconds': 0.5788385000050766, 'test_sentences': 200, 'length_cap_hits': 0}

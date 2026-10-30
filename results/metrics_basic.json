@@ -1,0 +1,14 @@
+{
+  "bleu": 20.638414981471318,
+  "chrf": 40.13285114098659,
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.5.1",
+  "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.5.1",
+  "bleu_bp": 0.9379993489152221,
+  "bleu_ratio": 0.9398443029016278,
+  "inference_seconds": 11.233287199982442,
+  "inference_wall_seconds": 11.235956899996381,
+  "mean_latency_seconds": 0.05616643599991221,
+  "median_latency_seconds": 0.053542050009127706,
+  "test_sentences": 200,
+  "length_cap_hits": 0
+}

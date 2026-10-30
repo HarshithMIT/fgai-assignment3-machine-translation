@@ -1,0 +1,9 @@
+.cache/
+.venv/
+__pycache__/
+*.pyc
+submission/
+output/
+checkpoints/mt5-base/
+checkpoints/llama-base/
+checkpoints/gemma-base/
